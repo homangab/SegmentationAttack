@@ -1,7 +1,7 @@
 
 
 
-#### To find the UAP of a network (resnet18, DRNs)
+#### To find the Universal Adversarial Perturbation of a network (resnet18, DRNs)
 ```
 python uap_drn model im_path im_list [options]
 ```
